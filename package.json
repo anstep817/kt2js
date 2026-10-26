@@ -1,0 +1,14 @@
+{
+  "name": "kt02-stepan",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "joi": "^17.13.3",
+    "multer": "^1.4.5-lts.1"
+  }
+}
